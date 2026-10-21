@@ -1,0 +1,4 @@
+test-cloaker.html
+*.md
+.git
+node_modules
