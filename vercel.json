@@ -1,7 +1,4 @@
 {
-  "buildCommand": "echo 'Static site'",
-  "outputDirectory": ".",
-  "public": true,
   "rewrites": [
     {
       "source": "/safe-page.html",

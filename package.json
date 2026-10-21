@@ -1,9 +1,0 @@
-{
-  "name": "vivi-martins",
-  "version": "1.0.0",
-  "description": "Landing page",
-  "private": true,
-  "scripts": {
-    "dev": "echo 'Static site'"
-  }
-}
