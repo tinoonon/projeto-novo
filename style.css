@@ -44,7 +44,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: -2;
-  background-image: url('public/assets/bg-car-BSyEnrCi.jpg');
+  background-image: url('/assets/bg-car-BSyEnrCi.jpg');
   background-size: cover;
   background-position: center;
 }
