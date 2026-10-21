@@ -1,0 +1,8 @@
+# Redirects for Netlify
+# https://docs.netlify.com/routing/redirects/
+
+# Mapa de página segura
+/safe-page  /safe-page.html  200
+
+# SPA fallback - deve ser a última regra
+/*  /index.html  200
