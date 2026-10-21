@@ -1,7 +1,7 @@
 // Configuração padrão
 const DEFAULT_CONFIG = {
   whatsappUrl: "https://chat.whatsapp.com/I6sLuOcvVc3Gh0PufNUhb3?s=cl&p=i&mlu=4&ilr=4&iam=0",
-  phoneImageUrl: "public/assets/iphone.jpeg"
+  phoneImageUrl: "/assets/iphone.jpeg"
 };
 
 const STORAGE_KEY = "site_config_v1";
